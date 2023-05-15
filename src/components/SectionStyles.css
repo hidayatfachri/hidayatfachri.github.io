@@ -1,0 +1,16 @@
+.section {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    background: whitesmoke;
+}
+.section-title {
+    margin-top: 2rem;
+}
+@media screen and (max-width:850px) {
+    .section {
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+}
