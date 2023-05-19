@@ -7,13 +7,10 @@ function Section(props) {
         <h1 className='section-title'>{props.title}</h1>
         <div className="section">
             <Box
-            className='box'
             />
             <Box
-            className='box'
             />
             <Box
-            className='box'
             />
         </div>   
         </> 

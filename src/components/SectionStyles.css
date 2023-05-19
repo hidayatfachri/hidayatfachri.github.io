@@ -1,16 +1,16 @@
 .section {
     display: flex;
-    justify-content: center;
     text-align: left;
+    justify-content: center;
     background: whitesmoke;
 }
 .section-title {
     margin-top: 2rem;
 }
-@media screen and (max-width:850px) {
+@media screen and (max-width:1000px) {
     .section {
         flex-direction: column;
-        justify-content: center;
+        align-items: center;
     }
     
 }
