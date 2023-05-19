@@ -27,7 +27,7 @@ function Navigation() {
             </li>
           )
         })}
-        <button className='contact-button'>Contact Us</button>
+        <button href="/" className='contact-button'>Contact Us</button>
       </ul>
     </nav>
   )
