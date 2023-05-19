@@ -1,0 +1,86 @@
+.about{
+    margin: 4rem 6rem;
+    color: #222
+}
+
+.about h1{
+    font-size: 3rem;
+    text-align: start;
+}
+
+.about p{
+    text-align: start;
+    font-size: 1.2rem;
+}
+
+.visimisi{
+margin-bottom: 1rem;
+}
+
+.visimisi h1{
+    text-align: start;
+    font-size: 3rem;
+    margin: 0rem 6rem;
+}
+
+.visimisi p{
+    text-align: center;
+}
+
+.visimisi-desc8{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    background-color: #01959a;
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 0rem;
+    border-radius: 7px;
+    margin: 2rem 6rem;
+}
+
+.visi{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 1rem 4rem;
+}
+
+.visi h1{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: #01959a;
+    text-align: center;
+}
+
+.visi p{
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+.visimisi i{
+    margin-right: 1rem;
+}
+
+.misi{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 1rem 4rem;
+}
+
+.misi h1{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: #01959a;
+    text-align: center;
+}
+
+.misi p{
+    padding: 1rem;
+    font-size: 1rem;
+}
