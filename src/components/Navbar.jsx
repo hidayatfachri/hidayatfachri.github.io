@@ -1,5 +1,5 @@
 import './NavbarStyles.css'
-import { MenuItems } from './MenuItems';
+import { MenuItems } from './MenuItems.js';
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 

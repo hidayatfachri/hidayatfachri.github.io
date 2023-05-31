@@ -1,7 +1,7 @@
-import Hero from '../components/Hero';
-import Navigation from '../components/Navbar'
-import Footer from '../components/Footer';
-import AboutDesc from '../components/AboutSection';
+import Hero from '../components/Hero.jsx';
+import Navigation from '../components/Navbar.jsx'
+import Footer from '../components/Footer.jsx';
+import AboutDesc from '../components/AboutSection.jsx';
 
 function About() {
     return (

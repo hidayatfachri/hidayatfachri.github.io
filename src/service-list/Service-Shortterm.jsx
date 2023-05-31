@@ -1,6 +1,6 @@
-import Navigation from '../components/Navbar'
-import Footer from '../components/Footer';
-import Detail from '../components/Detail';
+import Navigation from '../components/Navbar.jsx'
+import Footer from '../components/Footer.jsx';
+import Detail from '../components/Detail.jsx';
 
 function ServiceShortterm() {
   return (

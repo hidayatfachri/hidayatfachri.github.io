@@ -1,6 +1,6 @@
 import './FeatureStyles.css'
 import Carousel from 'react-multi-carousel';
-import Box from './Box';
+import Box from './Box.jsx';
 
 const responsive = {
     desktop: {

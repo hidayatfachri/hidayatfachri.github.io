@@ -1,7 +1,7 @@
-import Hero from '../components/Hero';
-import Navigation from '../components/Navbar'
-import Footer from '../components/Footer';
-import ServiceList from '../components/ServiceList'
+import Hero from '../components/Hero.jsx';
+import Navigation from '../components/Navbar.jsx'
+import Footer from '../components/Footer.jsx';
+import ServiceList from '../components/ServiceList.jsx'
 
 
 function Service() {

@@ -1,9 +1,9 @@
-import Navigation from '../components/Navbar'
-import Hero from "../components/Hero";
+import Navigation from '../components/Navbar.jsx'
+import Hero from "../components/Hero.jsx";
 import 'react-multi-carousel/lib/styles.css'
-import Footer from '../components/Footer';
-import Feature from '../components/Feature';
-import WhyChooseUs from '../components/WhyChooseUs';
+import Footer from '../components/Footer.jsx';
+import Feature from '../components/Feature.jsx';
+import WhyChooseUs from '../components/WhyChooseUs.jsx';
 
 function Home() {
   return (

@@ -1,6 +1,6 @@
 
-import Navigation from '../components/Navbar'
-import GalleryView from '../components/GalleryView';
+import Navigation from '../components/Navbar.jsx'
+import GalleryView from '../components/GalleryView.jsx';
 
 function Gallery() {
   return (
