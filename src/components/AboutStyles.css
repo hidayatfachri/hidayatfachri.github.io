@@ -84,3 +84,44 @@ margin-bottom: 1rem;
     padding: 1rem;
     font-size: 1rem;
 }
+@media screen and (max-width:850px){
+    .about{
+        margin: 4rem 2rem;
+    }
+
+    .visimisi h1{
+        margin: 1rem 2rem;
+    }
+
+    .visimisi-desc8{
+        flex-direction: column;
+        margin: 0rem 2rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    .visi{
+        margin: 0rem 2rem;
+    }
+    .misi{
+        margin: 0rem 2rem;
+    }
+    .visi p{
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        padding-top: 0rem;
+        padding-bottom: 1rem;
+    }
+    .visi h1{
+        margin: 1rem 0.5rem;
+    }
+    .misi h1{
+        margin: 1rem 0.5rem;
+    }
+    .misi p{
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        padding-top: 0rem;
+        padding-bottom: 0rem;
+    }
+    
+}

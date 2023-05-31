@@ -12,7 +12,7 @@ function ServiceListData(props){
                 </div>
                 <p>{props.text}</p>
                 <Link exact to={props.url}>
-                    <h5>Pelajari Lebih lanjut <i class="fa-solid fa-arrow-right"></i> </h5>
+                    <h5>Pelajari Lebih lanjut <i className="fa-solid fa-arrow-right"></i> </h5>
                 </Link>
         </div>
     )

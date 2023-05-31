@@ -1,0 +1,35 @@
+.wcu-wrapper {
+    position: static;
+    margin: 4rem;
+    height: 80vh;
+    max-height: 100vh;
+}
+.wcu-title {
+    margin-bottom: 10vh;
+}
+.wcu-section {
+    display: flex;
+    gap: 4rem;
+}
+.wcu-card {
+    padding: 5rem 1rem;
+    box-sizing: border-box;
+}
+.wcu-card i {
+    font-size: 5rem;
+    padding: 2rem;
+}
+.wcu-card p {
+    text-align: left;
+}
+
+@media screen and (max-width: 960px) {
+    .wcu-wrapper {
+        min-height: 60vh;
+    }
+    .wcu-section {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

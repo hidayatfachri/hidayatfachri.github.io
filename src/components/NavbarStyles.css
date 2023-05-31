@@ -3,15 +3,14 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
-    background: #fff;
+    background: #e9e9ed;
     box-shadow: 0 5px 15px 0 rgba(0,0,0,.25);
     width: 95%;
     height: 80px;
     border-radius: 13px;
     position: fixed;
-    top: 20px;
     left: 70%;
-    transform: translate(-70%);
+    transform: translate(-70.5%);
     z-index: 9999;
 }
 .navbar-logo{
@@ -44,17 +43,18 @@
     display: none;
 }
 .nav-links:hover{
-    background-color: #01959a;
+    background-color: #F6B80E;
     color: #fff;
     border-radius: 4px;
     transition: all 0.2s ease-in-out;
 }
 .nav-links.active{
-    background: #01959a;
-    color: #fff;
+    background: #F6B80E;
+    color: #101820;
 }
 .contact-button{
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1rem;
+    text-transform: uppercase;
     white-space: nowrap;
     border-radius: 0.3rem;
     font-size: 1rem;

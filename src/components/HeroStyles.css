@@ -11,11 +11,13 @@
 .hero-half h1{
     padding-top: 4rem;
 }
-img{
-    object-fit: cover;
-    width: 100%;
+.hero::before {
+    background-image: linear-gradient(to bottom left, #1a1a1a, transparent);
+    content: "";
     height: 100%;
-}
+    position: absolute;
+    width: 100%;
+  }
 .hero-text{
     position: absolute;
     top: 55%;

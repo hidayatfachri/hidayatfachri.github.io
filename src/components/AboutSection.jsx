@@ -12,11 +12,11 @@ function AboutDesc(props) {
             <h1>Visi dan Misi</h1>
             <div className='visimisi-desc8'>
             <div className='visi'>
-                <h1><i class="fa-solid fa-bullseye"></i> VISI </h1>  
+                <h1><i className="fa-solid fa-bullseye"></i> VISI </h1>  
                 <p>{props.visi}</p>
             </div>
             <div className='misi'>
-                <h1> <i class="fa-solid fa-car-side"></i> MISI</h1>
+                <h1> <i className="fa-solid fa-car-side"></i> MISI</h1>
                 <p>{props.misi}</p>
             </div>
             </div>

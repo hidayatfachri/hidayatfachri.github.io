@@ -96,6 +96,7 @@ function Footer() {
                     </div>
                 </div>
             </div>
+            <h4>Copyright 2023 | Sinergi Solusindo</h4>
         </div>
         </> 
     )        

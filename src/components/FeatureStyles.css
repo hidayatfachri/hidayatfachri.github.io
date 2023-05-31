@@ -1,0 +1,10 @@
+.feature-wrapper {
+    max-height: 100vh;
+    margin: 5vh 2rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .feature-wrapper {
+        margin: 5vh 0;
+    }
+}

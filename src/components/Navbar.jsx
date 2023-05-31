@@ -27,7 +27,9 @@ function Navigation() {
             </li>
           )
         })}
-        <button href="/" className='contact-button'>Contact Us</button>
+        <button href="/" className='contact-button'>
+          <i className="fa-brands fa-whatsapp fa-xl"></i> Contact
+        </button>
       </ul>
     </nav>
   )

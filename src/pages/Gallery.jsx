@@ -1,10 +1,14 @@
+
 import Navigation from '../components/Navbar'
+import GalleryView from '../components/GalleryView';
 
 function Gallery() {
   return (
     <>
+    
       <Navigation/>
-      <h1>This is Gallery Page</h1>
+      <GalleryView/>
+      
     </>
   )
 }
