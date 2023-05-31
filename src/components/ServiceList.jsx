@@ -1,5 +1,4 @@
-import "./ServiceListData";
-import ServiceListData from "./ServiceListData";
+import ServiceListData from "./ServiceListData.jsx";
 import "./ServiceListStyles.css";
 
 function ServiceList(){
