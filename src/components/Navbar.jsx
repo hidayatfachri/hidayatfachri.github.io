@@ -21,7 +21,7 @@ function Navigation() {
           return(
             <li key={index}>
               <NavLink className='nav-links'
-              exact to={item.url}>
+              to={item.url}>
                 <i className={item.icon}> {item.title}</i>
               </NavLink>
             </li>
